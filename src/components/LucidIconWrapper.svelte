@@ -6,7 +6,7 @@
 
 <button
 	onclick={onClick}
-	class="flex cursor-pointer justify-center rounded-md py-2 hover:bg-red-300"
+	class="hover:bg-accent-l dark:hover:bg-accent-d flex cursor-pointer justify-center rounded-md px-2 py-2"
 >
 	{@render children()}
 </button>
