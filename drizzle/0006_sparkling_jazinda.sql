@@ -1,0 +1,1 @@
+ALTER TABLE `contacts` ADD `mobile` varchar(20) NOT NULL;
